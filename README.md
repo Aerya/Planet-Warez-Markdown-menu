@@ -4,21 +4,20 @@ Ajoute une barre d’outils Markdown moderne et élégante avec prévisualisatio
 Fini les balises tapées à la main : clique, insère, écris, admire le rendu… et concentre-toi sur le contenu.
 
 ✨ Fonctionnalités
-    Barre d’outils Markdown : Gras, italique, lien, image, code, citation, listes, centrage
+    Barre d’outils Markdown : gras, italique, lien, image, code, citation, listes, centrage
     Aperçu live
-    Installation en 1 clic : Compatible Tampermonkey, Violentmonkey, Greasemonkey
+    Installation en 1 clic : compatible Tampermonkey, Violentmonkey, Greasemonkey
     S’intègre sur tous les textarea
 
 🚀 Installation rapide
-    Clique ici pour installer (lien brut)
-    Tampermonkey/Violentmonkey te propose d’installer le script.
-    Modifie la ligne @match pour viser le site de ton choix, si besoin.
-    Recharge la page : la barre magique apparaît !
+    [Cliquer sur le script](https://github.com/Aerya/Planet-Warez-Markdown-menu/raw/refs/heads/main/markdown-toolbar.user.js) pour l'installer sous Grease/Tamper/ViolentMonkey
+    Recharger la page
 
 🎨 Aperçu
-    markdownmenu.png
+    ![markdownmenu.png](https://raw.githubusercontent.com/Aerya/Planet-Warez-Markdown-menu/refs/heads/main/markdownmenu.png)
 
 ⚙️ Configuration
-    Pour changer le site cible : modifie la ligne
-    // @match https://planete-warez.net/*
-    Pour ajouter des boutons ou en changer l’ordre, modifie le tableau buttons dans le script.
+    Pour changer le site cible, modifier la ligne ou en ajouter
+    // @match        https://planete-warez.net/*
+    // @match        https://autre-forum.net/*
+    // @match        https://*.wikipedia.org/*
