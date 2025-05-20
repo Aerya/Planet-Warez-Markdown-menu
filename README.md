@@ -2,8 +2,7 @@
 
 
 
-Ajoute une barre d’outils Markdown moderne et élégante avec prévisualisation en direct sous chaque zone de texte sur le site de ton choix.
-Fini les balises tapées à la main : clique, insère, écris, admire le rendu… et concentre-toi sur le contenu.
+Ajoute une barre d’outils Markdown moderne et élégante avec prévisualisation en direct sous chaque zone de texte sur le site.
 
 
 
