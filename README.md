@@ -6,7 +6,7 @@ Ajoute une barre d’outils Markdown moderne et élégante avec prévisualisatio
 
 
 
-✨ Fonctionnalités
+Fonctionnalités
 
 * Barre d’outils Markdown : gras, italique, lien, image, code, citation, listes, centrage
 * Aperçu live
@@ -15,14 +15,14 @@ Ajoute une barre d’outils Markdown moderne et élégante avec prévisualisatio
 
 
 
-🚀 Installation rapide
+Installation rapide
 
 [Cliquer sur le script](https://github.com/Aerya/Planet-Warez-Markdown-menu/raw/refs/heads/main/markdown-toolbar.user.js) pour l'installer sous Grease/Tamper/ViolentMonkey
 Recharger la page
 
 
 
-🎨 Aperçu
+Aperçu
 ![markdownmenu.png](https://raw.githubusercontent.com/Aerya/Planet-Warez-Markdown-menu/refs/heads/main/markdownmenu.png)
 
 
